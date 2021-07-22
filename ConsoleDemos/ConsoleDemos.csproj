@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+    <AssemblyName>ConsoleDemos</AssemblyName>
+    <StartupObject></StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Demo4.cs" />
+    <Compile Remove="Demo5.cs" />
+    <Compile Remove="emp.cs" />
+    <Compile Remove="IOExample2.cs" />
+    <Compile Remove="Mobile.cs" />
+    <Compile Remove="Mobile1.cs" />
+  </ItemGroup>
+
+</Project>

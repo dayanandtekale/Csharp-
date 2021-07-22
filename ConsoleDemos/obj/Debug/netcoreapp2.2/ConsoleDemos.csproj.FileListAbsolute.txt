@@ -1,0 +1,8 @@
+C:\trg\trg\ConsoleDemos\ConsoleDemos\obj\Debug\netcoreapp2.2\ConsoleDemos.AssemblyInfoInputs.cache
+C:\trg\trg\ConsoleDemos\ConsoleDemos\obj\Debug\netcoreapp2.2\ConsoleDemos.AssemblyInfo.cs
+C:\trg\trg\ConsoleDemos\ConsoleDemos\obj\Debug\netcoreapp2.2\ConsoleDemos.csproj.CoreCompileInputs.cache
+C:\trg\trg\ConsoleDemos\ConsoleDemos\bin\Debug\netcoreapp2.2\ConsoleDemos.deps.json
+C:\trg\trg\ConsoleDemos\ConsoleDemos\bin\Debug\netcoreapp2.2\ConsoleDemos.dll
+C:\trg\trg\ConsoleDemos\ConsoleDemos\bin\Debug\netcoreapp2.2\ConsoleDemos.pdb
+C:\trg\trg\ConsoleDemos\ConsoleDemos\obj\Debug\netcoreapp2.2\ConsoleDemos.dll
+C:\trg\trg\ConsoleDemos\ConsoleDemos\obj\Debug\netcoreapp2.2\ConsoleDemos.pdb
