@@ -1,0 +1,13 @@
+C:\trg\trg\CsharpFinal\bin\Debug\netcoreapp3.1\CsharpFinal.exe
+C:\trg\trg\CsharpFinal\bin\Debug\netcoreapp3.1\CsharpFinal.deps.json
+C:\trg\trg\CsharpFinal\bin\Debug\netcoreapp3.1\CsharpFinal.runtimeconfig.json
+C:\trg\trg\CsharpFinal\bin\Debug\netcoreapp3.1\CsharpFinal.runtimeconfig.dev.json
+C:\trg\trg\CsharpFinal\bin\Debug\netcoreapp3.1\CsharpFinal.dll
+C:\trg\trg\CsharpFinal\bin\Debug\netcoreapp3.1\CsharpFinal.pdb
+C:\trg\trg\CsharpFinal\obj\Debug\netcoreapp3.1\CsharpFinal.csprojAssemblyReference.cache
+C:\trg\trg\CsharpFinal\obj\Debug\netcoreapp3.1\CsharpFinal.AssemblyInfoInputs.cache
+C:\trg\trg\CsharpFinal\obj\Debug\netcoreapp3.1\CsharpFinal.AssemblyInfo.cs
+C:\trg\trg\CsharpFinal\obj\Debug\netcoreapp3.1\CsharpFinal.csproj.CoreCompileInputs.cache
+C:\trg\trg\CsharpFinal\obj\Debug\netcoreapp3.1\CsharpFinal.dll
+C:\trg\trg\CsharpFinal\obj\Debug\netcoreapp3.1\CsharpFinal.pdb
+C:\trg\trg\CsharpFinal\obj\Debug\netcoreapp3.1\CsharpFinal.genruntimeconfig.cache
